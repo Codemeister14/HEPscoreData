@@ -1,0 +1,6 @@
+# started on Tue Jun 17 03:28:32 2025
+
+#           time             counts unit events
+     0.736283254         2277458194      cycles                           #    0.038 GHz                       
+     0.736283254         2408248508      instructions                     #    1.06  insn per cycle            
+     0.736283254           59296.43 msec task-clock                       #   59.296 CPUs utilized             
